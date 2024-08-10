@@ -1,5 +1,5 @@
 
-# Git-Python Clone
+# Light weight GitClone
 
 This project is a Python implementation of some fundamental Git commands. The goal is to create a lightweight version of Git with core functionalities implemented in Python.
 
