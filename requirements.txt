@@ -1,0 +1,2 @@
+# Editable install with no version control (gitClone==1.0)
+-e /Users/satyanarayan.bunkar/Documents/python/light_git
