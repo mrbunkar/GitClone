@@ -1,4 +1,4 @@
-from gitlib.objects import object_read, object_find
+from gitlib.objects.objects import object_read, object_find
 from gitlib.repo import repo_find
 import sys
 
